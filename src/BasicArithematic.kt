@@ -7,6 +7,7 @@ fun main(){
 
     //Division
     print(1/2)
+    
 
     //Division
     print(1.0/2.0)
